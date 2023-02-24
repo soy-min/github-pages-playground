@@ -7,3 +7,4 @@ include:
   - README.md
   - topic1.md
   - main.md
+ theme: jekyll-theme-cayman
